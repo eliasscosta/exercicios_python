@@ -13,7 +13,7 @@ try:
 
 
 
-     de = 'eliasscosta@gmail.com'
+     de = 'seuemail@gmail.com'
      para = raw_input('Digite o email de quem vai receber: ')
      subject_text = 'Casa comigo?'
      message_text = 'Amor da minha vida!!!\nEu te amo!!!\n\nCasa comigo?'
