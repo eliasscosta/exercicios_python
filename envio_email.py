@@ -7,7 +7,7 @@ try:
      smtp.ehlo()
      smtp.starttls()
      smtp.ehlo()
-     smtp.login('eliasscosta@gmail.com', 'Mirian00*#')
+     smtp.login('seuemail@domain.com', 'suasenha')
  
 
 
